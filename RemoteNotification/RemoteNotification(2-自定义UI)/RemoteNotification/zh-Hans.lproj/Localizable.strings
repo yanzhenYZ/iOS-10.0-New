@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  RemoteNotification
+
+  Created by yanzhen on 16/10/31.
+  Copyright © 2016年 v2tech. All rights reserved.
+*/
+
+"推送" = "推送";
+"本地推送" = "本地推送";
+"点击查看详情" = "点击查看详情";
+"发送" = "发送";
+"回复" = "回复";
+"默认文字" = "默认文字";
+"取消" = "取消";
+"测试" = "测试";

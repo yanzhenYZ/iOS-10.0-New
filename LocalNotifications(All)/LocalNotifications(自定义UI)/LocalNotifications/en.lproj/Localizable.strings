@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LocalNotifications
+
+  Created by yanzhen on 16/10/27.
+  Copyright © 2016年 v2tech. All rights reserved.
+*/
+
+"推送" = "Notifications";
+"本地推送" = "Local Notifications";
+"点击查看详情" = "Info";
+"发送" = "send";
+"回复" = "Reply";
+"默认文字" = "default txt";
+"取消" = "cancel";
+"测试" = "test";
